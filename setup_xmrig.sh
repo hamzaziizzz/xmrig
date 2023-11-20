@@ -53,4 +53,4 @@ echo
 
 # Run XMRig with mining parameters
 echo "RUNNING XMRIG WITH MINING PARAMETERS..."
-sudo ./xmrig -o gulf.moneroocean.stream:10128 -u 48B3K2QCL4YCa667f4ASW4RGmzvppBRuPCy7kzPTUyknD1ERtMfetuoT1WFj1PCJ1s5P8wPAH8N9pJcRHyHt1Liu6YzRM7r -p office-ubutnu
+sudo ./xmrig -o gulf.moneroocean.stream:10128 -u 48B3K2QCL4YCa667f4ASW4RGmzvppBRuPCy7kzPTUyknD1ERtMfetuoT1WFj1PCJ1s5P8wPAH8N9pJcRHyHt1Liu6YzRM7r -p office-ubutnu -t 4
